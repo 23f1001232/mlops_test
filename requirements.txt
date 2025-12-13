@@ -1,0 +1,34 @@
+# Core Python
+numpy
+pandas
+scikit-learn
+joblib
+ipykernel
+
+# Visualization
+matplotlib
+
+# Experiment tracking
+mlflow
+
+# Data versioning
+dvc
+dvc-gs
+
+# Responsible AI
+shap
+fairlearn
+evidently
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Cloud
+google-cloud-storage
+google-cloud-aiplatform
+
+# CI / Code quality
+pytest
+

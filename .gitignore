@@ -1,0 +1,12 @@
+# Ignore all data files
+data/
+data_orig/
+orig_data/
+
+# DVC cache
+.dvc/cache/
+
+# Python
+__pycache__/
+.venv/
+
