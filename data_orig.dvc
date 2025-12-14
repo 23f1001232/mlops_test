@@ -1,0 +1,6 @@
+outs:
+- md5: b50aa36625958cb455e04d01a7748c34.dir
+  size: 226301988
+  nfiles: 3
+  hash: md5
+  path: data_orig
